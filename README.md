@@ -1,4 +1,3 @@
-<img width="2036" height="1176" alt="image" src="https://github.com/user-attachments/assets/e53634eb-4c5f-4532-b642-434a4e6ba91e" /># BlinkitSalesDashboard
 Different Key performance indexes visualized using different charts.
 
 Total Sales: The overall revenue generated from all items sold.

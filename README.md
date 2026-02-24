@@ -16,14 +16,12 @@ Average Rating: The average customer rating for items sold.
 	Objective: Analyze the impact of fat content on total sales.
 
 	
-	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
 	
  Total Sales by Item Type:
 	Objective: Identify the performance of different item types in terms of total sales.
 
 	
-	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
 	
  Fat Content by Outlet for Total Sales:
